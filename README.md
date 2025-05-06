@@ -1,6 +1,6 @@
 # MLA (MiniLibAudio)
 
-**MLA** is a lightweight high-level wrapper around [miniaudio](https://miniaud.io), inspired by the simplicity of the [MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx) API. It provides an easy-to-use interface for initializing audio, playing sounds, and using basic 3D audio features like positioning and direction.
+**MLA** is a lightweight high-level wrapper around [miniaudio](https://miniaud.io), inspired by the simplicity of the [MiniLibX](https://github.com/42paris/minilibx-linux) API. It provides an easy-to-use interface for initializing audio, playing sounds, and using basic 3D audio features like positioning and direction.
 
 This library is ideal for small games, demos, or audio-visual experiments where you want minimal overhead and fast integration.
 
